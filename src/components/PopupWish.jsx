@@ -42,42 +42,23 @@ export default function PopupWish() {
             <div className="icons">💖 🌸 ✨ 💐 💖</div>
 
             <p>
-              🎉 I'm wishing you the happiest birthday ever,{" "}
-              <b>Lakshmi</b>! 💖
-              <br />
-              
+  🎉 Wishing you the happiest birthday, <b>Lakshmi</b>! 💖
+  <br />
 
-              🌸 Today is all about celebrating the wonderful person you are.
-              Your kindness, strength, and beautiful smile brighten the lives
-              of everyone around you. ✨
+  🌸 May your day be filled with love ❤️, laughter 😄, and beautiful memories you'll always cherish.
+  <br />
 
-              <br />
-              
+  🎶 Keep singing and sharing your beautiful voice, because it brings joy to everyone around you. May your passion for music always lead you to happiness and new opportunities. 🎤✨
+  <br />
 
-              🎂 May your special day be filled with endless love ❤️,
-              laughter 😄, unforgettable memories 📸, and beautiful moments
-              🌷 that stay with you forever.
+  🌟 May all your dreams come true, your heart stay full of happiness 💕, and every new day bring you success, peace, and countless reasons to smile. 😊
+  <br />
 
-              <br />
-              
+  🎂 Stay the amazing person you are, keep smiling, and never stop shining.
+  <br />
 
-              🌟 May all your dreams come true, your heart always stay happy
-              💕, and every new day bring you success 🌈, peace 🕊️, and
-              countless reasons to smile. 😊
-
-              <br />
-              
-
-              💝 Keep shining, keep smiling, and never stop being the amazing
-              person you are.
-
-              <br />
-              
-
-              🎈 Wishing you a day as beautiful as your heart.
-              <br />
-              <b>Happy Birthday, Lakshmi! 🎂🎁💐❤️</b>
-            </p>
+  <b>Happy Birthday, Lakshmi! 🎂🎁💐❤️</b>
+</p>
           </div>
         </div>
       )}
