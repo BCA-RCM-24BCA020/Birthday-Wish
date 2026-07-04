@@ -45,34 +45,34 @@ export default function PopupWish() {
               🎉 I'm wishing you the happiest birthday ever,{" "}
               <b>Lakshmi</b>! 💖
               <br />
-              <br />
+              
 
               🌸 Today is all about celebrating the wonderful person you are.
               Your kindness, strength, and beautiful smile brighten the lives
               of everyone around you. ✨
 
               <br />
-              <br />
+              
 
               🎂 May your special day be filled with endless love ❤️,
               laughter 😄, unforgettable memories 📸, and beautiful moments
               🌷 that stay with you forever.
 
               <br />
-              <br />
+              
 
               🌟 May all your dreams come true, your heart always stay happy
               💕, and every new day bring you success 🌈, peace 🕊️, and
               countless reasons to smile. 😊
 
               <br />
-              <br />
+              
 
               💝 Keep shining, keep smiling, and never stop being the amazing
               person you are.
 
               <br />
-              <br />
+              
 
               🎈 Wishing you a day as beautiful as your heart.
               <br />
